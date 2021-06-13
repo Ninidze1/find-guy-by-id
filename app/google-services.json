@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677467364485",
+    "project_id": "tbcshualeduri",
+    "storage_bucket": "tbcshualeduri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677467364485:android:0d167619c9d485f1fb9dec",
+        "android_client_info": {
+          "package_name": "com.example.shualeduri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677467364485-cs1ehgfcrv9dplisf7p717fj1vcca7g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApO64uKzN34ycocHOd1EbO5kQNOxrCYI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677467364485-cs1ehgfcrv9dplisf7p717fj1vcca7g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
