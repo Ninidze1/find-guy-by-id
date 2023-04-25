@@ -26,8 +26,3 @@ FindGuyByID uses the following technologies to provide its functionality:
 
 ## 🤝 Contributing
 If you would like to contribute to FindGuyByID, please feel free to submit a pull request. Any contributions are welcome and appreciated!
-
-## 📝 License
-This code is licensed under the MIT License. See the `LICENSE` file for more information.
-
-
